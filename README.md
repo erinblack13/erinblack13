@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Erin Black
+- 👋 Hi, I’m Erin Black <img width="160" alt="image" src="https://github.com/user-attachments/assets/71e63616-e679-4022-8a16-ed7787e84fb0" />
+
 - 👀 I’m interested in learning to code and copy scripts from websites and
 - using them to my benefit, if that's even possible? 
 - 🌱 I’m currently learning data analytics at college and C550 ( just started this class )
