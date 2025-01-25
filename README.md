@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Erin Black <img width="160" alt="image" src="https://github.com/user-attachments/assets/71e63616-e679-4022-8a16-ed7787e84fb0" />
-
-- 👀 I’m interested in learning to code and copy scripts from websites and
+- <img width="160" alt="image" src="https://github.com/user-attachments/assets/0f7e7d8a-343a-4564-a57b-db7b9ec971ba" />
+👋 Hi, I’m Erin Black 
+ 👀 I’m interested in learning to code and copy scripts from websites and
 - using them to my benefit, if that's even possible? 
 - 🌱 I’m currently learning data analytics at college and C550 ( just started this class )
 - 💞️ I’m looking to collaborate on using the script from other websites
